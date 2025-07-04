@@ -3,7 +3,7 @@
 
 <style>
   .tech-icon {
-    height: 30px;
+    height: 8px;
     margin-right: 8px;
     vertical-align: middle;
   }
